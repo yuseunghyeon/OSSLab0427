@@ -1,2 +1,1 @@
-# OSSLab_0427 >> README.md
-git init
+# Student ID: 21700339
